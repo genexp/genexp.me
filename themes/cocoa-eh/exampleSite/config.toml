@@ -1,4 +1,4 @@
-baseurl = "https://genexp.me/"
+baseurl = "https://example.com/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -6,8 +6,8 @@ contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-author = "Brian Corrigan"
-title = "General Exception"
+author = "Alexis Tacnet"
+title = "Cocoa Enhanced"
 disqusshortname = ""
 pluralizelisttitles = false
 
@@ -17,24 +17,24 @@ blog = "blog/:slug/"
 [params]
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "General Exception"
-copyright = "Copyright © 2018 Brian Corrigan"
+description = "Example blog"
+copyright = "Copyright © 2015 Nishanth Shanmugham"
 # copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
-logofile = "img/if_space-invader_2981852.png"
-faviconfile = "img/if_space-invader_2981852.png"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
 highlightjs = true
 progressively = true
 share = true
 # Share to googleplus, twitter, fb, linkedin by default
 # disable by setting share_on_<social network> = false
-share_on_googleplus = false
+# example: share_on_googleplus = false
 latestpostcount = 5
-github = "genexp"
+github = "example"
 email = "you@example.com"
-linkedin = "briancorrigan"
-twitter = "genexp"
-facebook = "genexp"
-social_banner = "img/if_space-invader_2981852.png"
+linkedin = "john-example-aa80ue8è"
+twitter = "example"
+facebook = "facebook_id"
+social_banner = "img/banner.png"
 usesmallsummarycard = true
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
@@ -42,7 +42,7 @@ posts_navigation = true
 small_banner_logo = false
 
 [params.colors]
-identifier = "#527fc1"
+identifier = "#527fc1f"
 identifier_dark = "#1a3152"
 trivial = "#6a7a8b"
 foreground = "#181d2a"
