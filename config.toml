@@ -19,7 +19,7 @@ dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "General Exception"
 copyright = "Copyright © 2018 Brian Corrigan"
-# copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
+copyrightUrl = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 logofile = "img/if_space-invader_2981852.png"
 faviconfile = "img/if_space-invader_2981852.png"
 highlightjs = true
@@ -30,7 +30,7 @@ share = true
 share_on_googleplus = false
 latestpostcount = 5
 github = "genexp"
-email = "you@example.com"
+# email = "you@example.com"
 linkedin = "briancorrigan"
 twitter = "genexp"
 facebook = "genexp"
@@ -38,7 +38,7 @@ social_banner = "img/if_space-invader_2981852.png"
 usesmallsummarycard = true
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
-# githubRepo = "githubUsername/repositoryName/tree/master"
+githubRepo = "genexp/genexp.me/tree/master"
 small_banner_logo = false
 
 [params.colors]

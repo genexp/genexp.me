@@ -1,3 +1,8 @@
++++
+date = "2015-08-22"
+title = "Operating System"
++++
+
 # Operating System
 
 ## Decisions

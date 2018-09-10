@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-http://quizzical-swanson-ffd195.netlify.com/* http://genexp.me/:splat 301
+http://quizzical-swanson-ffd195.netlify.com/* https://genexp.me/:splat 301
