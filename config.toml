@@ -1,5 +1,5 @@
 baseurl = "https://genexp.me/"
-theme = "lowfi"
+theme = "hugo-xmin"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
